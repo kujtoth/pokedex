@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>POKEDEX</title>
+</head>
+
+<body>
+  <div id="root"></div>
+  <script type="module" src="/src/main.tsx"></script>
+
+  <script>
+    
+    let titelito = document.title;
+    let blur = false;
+    
+    async function changetitle(state) {
+      blur = true;
+      while (blur) {
+        state == 0 ? state = 1 : state = 0;
+        await new Promise(resolve => setTimeout(resolve, 1000));
+        let response =  state == 0 ?  "HEY! COME BACK!" : "(1) New message";
+        document.title = response;
+      }
+      document.title = "POKEDEX";
+      
+    }
+
+
+    window.addEventListener("blur", changetitle);
+    
+
+    
+    window.addEventListener("focus", () => {
+      blur = false;
+    });
+
+
+
+  </script>
+
+</body>
+
+</html>

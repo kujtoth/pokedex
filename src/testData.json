@@ -1,0 +1,468 @@
+{
+    "data": {
+        "pokemon_v2_pokemon": [
+            {
+                "name": "bulbasaur",
+                "id": 1,
+                "height": 7,
+                "order": 1,
+                "pokemon_species_id": 1,
+                "weight": 69,
+                "pokemon_v2_pokemontypes": [
+                    {
+                        "pokemon_v2_type": {
+                            "name": "grass",
+                            "id": 12
+                        }
+                    },
+                    {
+                        "pokemon_v2_type": {
+                            "name": "poison",
+                            "id": 4
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "ivysaur",
+                "id": 2,
+                "height": 10,
+                "order": 2,
+                "pokemon_species_id": 2,
+                "weight": 130,
+                "pokemon_v2_pokemontypes": [
+                    {
+                        "pokemon_v2_type": {
+                            "name": "grass",
+                            "id": 12
+                        }
+                    },
+                    {
+                        "pokemon_v2_type": {
+                            "name": "poison",
+                            "id": 4
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "venusaur",
+                "id": 3,
+                "height": 20,
+                "order": 3,
+                "pokemon_species_id": 3,
+                "weight": 1000,
+                "pokemon_v2_pokemontypes": [
+                    {
+                        "pokemon_v2_type": {
+                            "name": "grass",
+                            "id": 12
+                        }
+                    },
+                    {
+                        "pokemon_v2_type": {
+                            "name": "poison",
+                            "id": 4
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "charmander",
+                "id": 4,
+                "height": 6,
+                "order": 5,
+                "pokemon_species_id": 4,
+                "weight": 85,
+                "pokemon_v2_pokemontypes": [
+                    {
+                        "pokemon_v2_type": {
+                            "name": "fire",
+                            "id": 10
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "charmeleon",
+                "id": 5,
+                "height": 11,
+                "order": 6,
+                "pokemon_species_id": 5,
+                "weight": 190,
+                "pokemon_v2_pokemontypes": [
+                    {
+                        "pokemon_v2_type": {
+                            "name": "fire",
+                            "id": 10
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "charizard",
+                "id": 6,
+                "height": 17,
+                "order": 7,
+                "pokemon_species_id": 6,
+                "weight": 905,
+                "pokemon_v2_pokemontypes": [
+                    {
+                        "pokemon_v2_type": {
+                            "name": "fire",
+                            "id": 10
+                        }
+                    },
+                    {
+                        "pokemon_v2_type": {
+                            "name": "flying",
+                            "id": 3
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "squirtle",
+                "id": 7,
+                "height": 5,
+                "order": 10,
+                "pokemon_species_id": 7,
+                "weight": 90,
+                "pokemon_v2_pokemontypes": [
+                    {
+                        "pokemon_v2_type": {
+                            "name": "water",
+                            "id": 11
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "wartortle",
+                "id": 8,
+                "height": 10,
+                "order": 11,
+                "pokemon_species_id": 8,
+                "weight": 225,
+                "pokemon_v2_pokemontypes": [
+                    {
+                        "pokemon_v2_type": {
+                            "name": "water",
+                            "id": 11
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "blastoise",
+                "id": 9,
+                "height": 16,
+                "order": 12,
+                "pokemon_species_id": 9,
+                "weight": 855,
+                "pokemon_v2_pokemontypes": [
+                    {
+                        "pokemon_v2_type": {
+                            "name": "water",
+                            "id": 11
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "caterpie",
+                "id": 10,
+                "height": 3,
+                "order": 14,
+                "pokemon_species_id": 10,
+                "weight": 29,
+                "pokemon_v2_pokemontypes": [
+                    {
+                        "pokemon_v2_type": {
+                            "name": "bug",
+                            "id": 7
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "metapod",
+                "id": 11,
+                "height": 7,
+                "order": 15,
+                "pokemon_species_id": 11,
+                "weight": 99,
+                "pokemon_v2_pokemontypes": [
+                    {
+                        "pokemon_v2_type": {
+                            "name": "bug",
+                            "id": 7
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "butterfree",
+                "id": 12,
+                "height": 11,
+                "order": 16,
+                "pokemon_species_id": 12,
+                "weight": 320,
+                "pokemon_v2_pokemontypes": [
+                    {
+                        "pokemon_v2_type": {
+                            "name": "bug",
+                            "id": 7
+                        }
+                    },
+                    {
+                        "pokemon_v2_type": {
+                            "name": "flying",
+                            "id": 3
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "weedle",
+                "id": 13,
+                "height": 3,
+                "order": 17,
+                "pokemon_species_id": 13,
+                "weight": 32,
+                "pokemon_v2_pokemontypes": [
+                    {
+                        "pokemon_v2_type": {
+                            "name": "bug",
+                            "id": 7
+                        }
+                    },
+                    {
+                        "pokemon_v2_type": {
+                            "name": "poison",
+                            "id": 4
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "kakuna",
+                "id": 14,
+                "height": 6,
+                "order": 18,
+                "pokemon_species_id": 14,
+                "weight": 100,
+                "pokemon_v2_pokemontypes": [
+                    {
+                        "pokemon_v2_type": {
+                            "name": "bug",
+                            "id": 7
+                        }
+                    },
+                    {
+                        "pokemon_v2_type": {
+                            "name": "poison",
+                            "id": 4
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "beedrill",
+                "id": 15,
+                "height": 10,
+                "order": 19,
+                "pokemon_species_id": 15,
+                "weight": 295,
+                "pokemon_v2_pokemontypes": [
+                    {
+                        "pokemon_v2_type": {
+                            "name": "bug",
+                            "id": 7
+                        }
+                    },
+                    {
+                        "pokemon_v2_type": {
+                            "name": "poison",
+                            "id": 4
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "pidgey",
+                "id": 16,
+                "height": 3,
+                "order": 21,
+                "pokemon_species_id": 16,
+                "weight": 18,
+                "pokemon_v2_pokemontypes": [
+                    {
+                        "pokemon_v2_type": {
+                            "name": "normal",
+                            "id": 1
+                        }
+                    },
+                    {
+                        "pokemon_v2_type": {
+                            "name": "flying",
+                            "id": 3
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "pidgeotto",
+                "id": 17,
+                "height": 11,
+                "order": 22,
+                "pokemon_species_id": 17,
+                "weight": 300,
+                "pokemon_v2_pokemontypes": [
+                    {
+                        "pokemon_v2_type": {
+                            "name": "normal",
+                            "id": 1
+                        }
+                    },
+                    {
+                        "pokemon_v2_type": {
+                            "name": "flying",
+                            "id": 3
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "pidgeot",
+                "id": 18,
+                "height": 15,
+                "order": 23,
+                "pokemon_species_id": 18,
+                "weight": 395,
+                "pokemon_v2_pokemontypes": [
+                    {
+                        "pokemon_v2_type": {
+                            "name": "normal",
+                            "id": 1
+                        }
+                    },
+                    {
+                        "pokemon_v2_type": {
+                            "name": "flying",
+                            "id": 3
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "rattata",
+                "id": 19,
+                "height": 3,
+                "order": 25,
+                "pokemon_species_id": 19,
+                "weight": 35,
+                "pokemon_v2_pokemontypes": [
+                    {
+                        "pokemon_v2_type": {
+                            "name": "normal",
+                            "id": 1
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "raticate",
+                "id": 20,
+                "height": 7,
+                "order": 27,
+                "pokemon_species_id": 20,
+                "weight": 185,
+                "pokemon_v2_pokemontypes": [
+                    {
+                        "pokemon_v2_type": {
+                            "name": "normal",
+                            "id": 1
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "spearow",
+                "id": 21,
+                "height": 3,
+                "order": 30,
+                "pokemon_species_id": 21,
+                "weight": 20,
+                "pokemon_v2_pokemontypes": [
+                    {
+                        "pokemon_v2_type": {
+                            "name": "normal",
+                            "id": 1
+                        }
+                    },
+                    {
+                        "pokemon_v2_type": {
+                            "name": "flying",
+                            "id": 3
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "fearow",
+                "id": 22,
+                "height": 12,
+                "order": 31,
+                "pokemon_species_id": 22,
+                "weight": 380,
+                "pokemon_v2_pokemontypes": [
+                    {
+                        "pokemon_v2_type": {
+                            "name": "normal",
+                            "id": 1
+                        }
+                    },
+                    {
+                        "pokemon_v2_type": {
+                            "name": "flying",
+                            "id": 3
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "ekans",
+                "id": 23,
+                "height": 20,
+                "order": 32,
+                "pokemon_species_id": 23,
+                "weight": 69,
+                "pokemon_v2_pokemontypes": [
+                    {
+                        "pokemon_v2_type": {
+                            "name": "poison",
+                            "id": 4
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "arbok",
+                "id": 24,
+                "height": 35,
+                "order": 33,
+                "pokemon_species_id": 24,
+                "weight": 650,
+                "pokemon_v2_pokemontypes": [
+                    {
+                        "pokemon_v2_type": {
+                            "name": "poison",
+                            "id": 4
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+}
